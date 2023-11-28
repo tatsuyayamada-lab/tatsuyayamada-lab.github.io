@@ -2,15 +2,15 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Integrative Physiology​​"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Yamada Lab​"
+  description: "Integrative Physiology Lab​"
   images: 
     - "images/hero-image.png"
 
@@ -22,20 +22,18 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    linkedin: "#"
+    googlescholar: "#"
+    ORCiD: "#"
+    Pubmed: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
-
+    - "1901 Vine st. Beadle Center, Lincoln, Nebraska 68588"
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "tyamada2”@”unl.edu​"
+    - "4024726504"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Yamada Lab All Rights Reserved"
 
 menus:
   main:
@@ -43,24 +41,24 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Research"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Team"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "News"
       url: "/#"
       weight: 4
 
-    - name: "Blog"
+    - name: "Publications"
       url: "/blog"
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Contact us"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -70,19 +68,19 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Research"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Team"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "News"
       url: "/#"
       weight: 4
 
-    - name: "Blog"
+    - name: "Publications"
       url: "/blog"
       weight: 5
 

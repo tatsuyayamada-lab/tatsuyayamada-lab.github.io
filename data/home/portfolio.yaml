@@ -3,37 +3,28 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Research"
+    title: "Yamada Lab is dedicated to unraveling the intricacies of metabolic regulation in an integrated manner"
+    text: "Our ultimate goal is to reconstitute particular metabolic reactions within physiological systems, shedding light on the essence of metabolic regulation, which we believe contributes to combating devastating metabolic diseases.​"
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Team"
+    title: "We are actively searching for motivated scientists at all levels​"
+    text: "Positions of postdoctoral researchers, graduate students, undergraduate students, research assistants, and technicians are open to individuals who have enthusiasm for physiological research.​"
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Publications"
+    title: "Original Articles, Reviews, Comments and more…​"
+    text: "The list of publications contributed by Yamada Lab."
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
