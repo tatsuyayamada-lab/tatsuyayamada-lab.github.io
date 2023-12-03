@@ -2,6 +2,11 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 title: "Integrative Physiology​​"
 
 # googleAnalytics: ""

@@ -10,7 +10,7 @@ content:
 
     buttons: 
       - label: "Read more"
-        url: "/homepage"
+        url: "/research"
 
   - image: "images/Team-photo-3.webp"
     pretitle: "Team"
