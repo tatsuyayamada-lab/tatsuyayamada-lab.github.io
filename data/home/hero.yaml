@@ -4,6 +4,7 @@ id: "hero"
 content:
   title: "Yamada Lab"
   text: "Department of Biochemistry at the University of Nebraska-Lincoln​"
+  image: "images/Main-image-2.webp"
 
   buttonPrimary:
     label: "Our Research"

@@ -11,10 +11,9 @@ summaryLength: 20
 params:
   title: "Yamada Lab​"
   description: "Integrative Physiology Lab​"
+  icon: "images/logo-2.webp"
   images: 
-    - "images/hero-image.png"
-
-  logo: "arrow-up.png"
+    - "images/Main-image-2.webp"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -42,24 +41,24 @@ menus:
       weight: 1
 
     - name: "Research"
-      url: "/#"
+      URL: "/#research"
       weight: 2
 
     - name: "Team"
-      url: "/#"
+      url: "/#team"
       weight: 3
 
     - name: "News"
-      url: "/#"
+      url: "/#services"
       weight: 4
 
     - name: "Publications"
-      url: "/blog"
+      url: "/#publications"
       weight: 5
 
   buttons:
     - name: "Contact us"
-      url: "/#"
+      url: "/#cta"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -69,19 +68,19 @@ menus:
       weight: 1
 
     - name: "Research"
-      url: "/#"
+      url: "/#research"
       weight: 2
 
     - name: "Team"
-      url: "/#"
+      url: "/#team"
       weight: 3
 
     - name: "News"
-      url: "/#"
+      url: "/#services"
       weight: 4
 
     - name: "Publications"
-      url: "/blog"
+      url: "/#publications"
       weight: 5
 
 taxonomies:

@@ -4,8 +4,5 @@ id: "brands"
 content:
   title: ""
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - "images/university-logo.webp"
+    - "images/NPOD_logo.webp"
