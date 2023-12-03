@@ -2,14 +2,15 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Yamada Lab"
+  text: "Department of Biochemistry at the University of Nebraska-Lincoln​"
+  image: "images/Main-image-2.webp"
 
   buttonPrimary:
-    label: "How we work"
+    label: "Our Research"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Contact us"
     url: ""
 

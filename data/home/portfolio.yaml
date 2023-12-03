@@ -2,38 +2,32 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/research.webp"
+    pretitle: "Research"
+    id: "research"
+    title: "Yamada Lab is dedicated to unraveling the intricacies of metabolic regulation in an integrated manner"
+    text: "Our ultimate goal is to reconstitute particular metabolic reactions within physiological systems, shedding light on the essence of metabolic regulation, which we believe contributes to combating devastating metabolic diseases.​"
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
-        url: "#"
+        url: "/research"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/Team-photo-3.webp"
+    pretitle: "Team"
+    id: "team"
+    title: "We are actively searching for motivated scientists at all levels​"
+    text: "Positions of postdoctoral researchers, graduate students, undergraduate students, research assistants, and technicians are open to individuals who have enthusiasm for physiological research.​"
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
-        url: "#"
+        url: "/team"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/Publication-2.webp"
+    pretitle: "Publications"
+    id: "publications"
+    title: "Original Articles, Reviews, Comments and more…​"
+    text: "The list of publications contributed by Yamada Lab."
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
-        url: "#"
+        url: "/publications"

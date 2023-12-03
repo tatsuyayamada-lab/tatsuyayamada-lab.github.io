@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Join our team!​"
+  image: "images/Contact-wp.webp"
   button:
-    label: "Let's talk"
+    label: "Contact"
     url: "#"
