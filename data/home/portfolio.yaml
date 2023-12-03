@@ -20,7 +20,7 @@ content:
 
     buttons: 
       - label: "Read more"
-        url: "#"
+        url: "/team"
 
   - image: "images/Publication-2.webp"
     pretitle: "Publications"
@@ -30,4 +30,4 @@ content:
 
     buttons: 
       - label: "Read more"
-        url: "#"
+        url: "/publications"
