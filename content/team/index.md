@@ -29,8 +29,6 @@ CV link
 | <img src="News_left_1.webp" width="100%"/>      | <img src="News-middle_1.webp" width="100%"/> | <img src="News_right_1.webp" width="110%"/>     |
 | :--:        |    :--:   |          :--: |
 |       |       |    |
-|       | <img src="luna.jpeg" width="70%"/>      |    |
-|       |  <br>Luna Xu, Ph.D. <br> IT Specialist     |    |
 
 
 <p style="font-size: xx-large; margin-top: 5em; text-align:center">

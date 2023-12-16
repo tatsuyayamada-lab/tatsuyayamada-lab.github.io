@@ -67,3 +67,6 @@ J Physiol. 594(2): 483-495​<br>
 Interaction between Myoglobin and Mitochondria in Rat Skeletal Muscle.​<br>
 J Appl Physiol (1985). 114(4): 490-497​<br>
 (https://journals.physiology.org/doi/full/10.1152/japplphysiol.00789.2012)​
+
+<h2 style="margin-top: 3em">
+Please visit <a href="https://www.ncbi.nlm.nih.gov/myncbi/tatsuya.yamada.1/bibliography/public/">here</a> for full publication list.</h2>
