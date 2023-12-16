@@ -26,10 +26,18 @@ params:
     faviconColor: "#000000"
 
   social:
-    linkedin: "#"
-    googlescholar: "#"
-    ORCiD: "#"
-    Pubmed: "#"
+    linkedin: 
+      url: "https://www.linkedin.com/in/tatsuya-yamada-00b7331a0/"
+      icon: "images/icons8-linkedin-128.webp"
+    googlescholar: 
+      url: "https://scholar.google.com/citations?user=YfkaXW8AAAAJ&hl=en&authuser=1"
+      icon: "images/icons8-google-scholar-128.webp"
+    ORCiD:
+      url: "https://orcid.org/0000-0002-6906-9861"
+      icon: "images/icons8-orcid-128.webp"
+    Pubmed:
+      url: "https://www.researchgate.net/profile/Tatsuya-Yamada-4"
+      icon: "images/icons-researchgate-128.webp"
 
   location:
     - "1901 Vine st. Beadle Center, Lincoln, Nebraska 68588"

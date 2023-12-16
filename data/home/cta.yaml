@@ -6,4 +6,4 @@ content:
   image: "images/Contact-wp.webp"
   button:
     label: "Contact"
-    url: "#"
+    url: "contact"

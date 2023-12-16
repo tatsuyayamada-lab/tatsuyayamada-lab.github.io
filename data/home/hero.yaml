@@ -2,15 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Yamada Lab"
-  text: "Department of Biochemistry at the University of Nebraska-Lincoln​"
+  title: ""
+  text: ""
   image: "images/Main-image-2.webp"
-
-  buttonPrimary:
-    label: "Our Research"
-    url: "#"
-
-  buttonSecondary:
-    label: "Contact us"
-    url: ""
 
