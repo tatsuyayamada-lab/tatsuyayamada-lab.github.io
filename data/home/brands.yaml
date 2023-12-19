@@ -4,5 +4,7 @@ id: "brands"
 content:
   title: ""
   items:
-    - "images/university-logo.webp"
-    - "images/NPOD_logo.webp"
+    - img: "images/university-logo.webp"
+      url: "https://biochem.unl.edu/"
+    - img: "images/NPOD_logo.webp"
+      url: "https://cehs.unl.edu/npod/"
