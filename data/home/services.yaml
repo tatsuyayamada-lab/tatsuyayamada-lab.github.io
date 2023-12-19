@@ -10,18 +10,18 @@ content:
       text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "404"
 
     - image: "images/News-middle_2.webp"
       title: ""
       text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "404"
 
     - image: "images/News_right_2.webp"
       title: ""
       text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "404"

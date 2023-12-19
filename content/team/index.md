@@ -19,14 +19,14 @@ Assistant Professor​<br>
 Department of Biochemistry​<br>
 N241 Beadle, University of Nebraska-Lincoln​<br>
 Lincoln, NE​<br>
-TEL: 402-472-6504​<br>
 Email: tyamada2”@”unl.edu​<br>
+TEL: 402-472-6504​<br>
 CV link
 ​</p>
 </div>
 
 
-| <img src="News_left_1.webp" width="100%"/>      | <img src="News-middle_1.webp" width="100%"/> | <img src="News_right_1.webp" width="110%"/>     |
+| <img src="News_left_1.webp" width="80%"/>      | <img src="News-middle_1.webp" width="80%"/> | <img src="News_right_1.webp" width="80%"/>     |
 | :--:        |    :--:   |          :--: |
 |       |       |    |
 

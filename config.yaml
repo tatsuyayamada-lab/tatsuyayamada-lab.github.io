@@ -61,12 +61,13 @@ menus:
       url: "/#team"
       weight: 3
 
-    - name: "News"
-      url: "/#services"
-      weight: 4
 
     - name: "Publications"
       url: "/#publications"
+      weight: 4
+
+    - name: "News"
+      url: "/#services"
       weight: 5
 
   buttons:
@@ -88,12 +89,12 @@ menus:
       url: "/#team"
       weight: 3
 
-    - name: "News"
-      url: "/#services"
-      weight: 4
-
     - name: "Publications"
       url: "/#publications"
+      weight: 4
+
+    - name: "News"
+      url: "/#services"
       weight: 5
 
 taxonomies:
