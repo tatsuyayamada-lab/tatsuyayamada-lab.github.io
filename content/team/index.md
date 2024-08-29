@@ -21,7 +21,7 @@ N241 Beadle, University of Nebraska-Lincoln​<br>
 Lincoln, NE​<br>
 Email: tyamada2”@”unl.edu​<br>
 TEL: 402-472-6504​<br>
-CV link
+<a href="CV-TY.pdf">CV</a>
 ​</p>
 </div>
 
