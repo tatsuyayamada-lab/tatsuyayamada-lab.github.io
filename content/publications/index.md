@@ -11,6 +11,13 @@ date: "{{ .Date }}"
     }
 </style>
 
+> Otomo, K., Omura, T., Nozawa, Y., Edwards, S. J., Sato, Y., Saito, Y., Yagishita, S., Uchida, H., Watakabe, Y., Naitou, K., Yanai, R., Sahara, N., Takagi, S., Katayama, R., Iwata, Y., Shiokawa, T., Hayakawa, Y., Otsuka, K., Watanabe-Takano, H., Haneda, Y., Fukuhara, S., Fujiwara, M., Nii, T., Meno, C., Takeshita, N., Yashiro, K., Rosales, Rocabado J.M., Kaku, M., Yamada, T., Oishi, Y., Koike, H., Cheng, Y., Sekine, K., Koga, J. I., Sugiyama, K., Kimura, K., Karube, F., Kim, H., Manabe, I., Nemoto, T., Tainaka, K., Hamada, A., Brismar, H., Susaki, E. A. (2024) <br>descSPIM: Affordable and Easy-to-Build Light-Sheet Microscopy for Tissue Clearing Technique Users. <br>Nat Commun. 12: 4941.<br>(https://www.nature.com/articles/s41467-024-49131-1)
+
+> Koma, R., Shibaguchi, T., Yamada, T., Nonaka, Y., Jue, T., Yamazaki, A. and Masuda, K. (2024)<br>
+Endurance training and myoglobin interaction with complex IV: Implications for direct myoglobin-role in mitochondrial respiration. <br> Acta Physiol. 240: e14139 <br>(https://onlinelibrary.wiley.com/doi/10.1111/apha.14139)
+
+Before 2023...
+
 > Yamada, T., Murata, D., Kleiner, D., Anders, R., Rosenberg, A., Kaplan, J., Hamilton, J. P., Aghajan, M., Levi, M., Wang, N. Y., Powers, A. F., Iijima, M. and Sesaki, H (2022)<br>
 Prevention and Regression of Megamitochondria and Steatosis by Blocking Mitochondrial Fusion.​ ​<br>iScience. doi.org/10.1016/j.isci.2022.103996​<br>
 (https://www.sciencedirect.com/science/article/pii/S2589004222002668?via%3Dihub)
