@@ -10,7 +10,7 @@ date: "{{ .Date }}"
 </style>
 
 <div style="width: 70%; margin:auto">
-<img src="Headshot_web.webp" style="margin-bottom: 1em; float:left"/>
+<img src="Headshot_web.webp" style="margin-bottom: 10em; float:left"/>
 
 <p style="float: right; margin-top: 15%">
 Tatsuya Yamada, Ph.D.​ <br>
@@ -25,10 +25,10 @@ TEL: 402-472-6504​<br>
 ​</p>
 </div>
 
-
-| <img src="News_left_1.webp" width="80%"/>      | <img src="News-middle_1.webp" width="80%"/> | <img src="News_right_1.webp" width="80%"/>     |
-| :--:        |    :--:   |          :--: |
-|       |       |    |
+| <img src="Kimberly.jpg" width="40%"/>      | <img src="Vaishvika.jpg" width="40%"/> |
+| :--:        |    :--:   |
+|  Kimberly Borgstahl     |   Vaishvika Balamurugan    |
+|  Undergraduate Research Assistant     |   Research Intern Summer 2025    |
 
 
 <p style="font-size: xx-large; margin-top: 5em; text-align:center">
