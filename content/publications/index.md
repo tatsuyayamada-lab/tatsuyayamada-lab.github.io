@@ -12,7 +12,7 @@ date: "{{ .Date }}"
 </style>
 > Yamada, T., Ikeda, A., Murata, D., Wang, H., Zhang, C., Khare, P., Adachi, Y., Ito, F., Quirós, P. M., Blackshaw, S., López-Otín, C., Langer, T., Chan, D. C., Dawson, V. L., Dawson, T. M., Le, A., Iijima, M., Sesaki, H. (2025)<br>
 Dual regulation of mitochondrial fusion by Parkin-PINK1 and Oma1. <br>
-Nature. accepted.
+Nature. 639: 776-783.<br>(https://www.nature.com/articles/s41586-025-08590-2)
 
 > Otomo, K., Omura, T., Nozawa, Y., Edwards, S. J., Sato, Y., Saito, Y., Yagishita, S., Uchida, H., Watakabe, Y., Naitou, K., Yanai, R., Sahara, N., Takagi, S., Katayama, R., Iwata, Y., Shiokawa, T., Hayakawa, Y., Otsuka, K., Watanabe-Takano, H., Haneda, Y., Fukuhara, S., Fujiwara, M., Nii, T., Meno, C., Takeshita, N., Yashiro, K., Rosales, Rocabado J.M., Kaku, M., Yamada, T., Oishi, Y., Koike, H., Cheng, Y., Sekine, K., Koga, J. I., Sugiyama, K., Kimura, K., Karube, F., Kim, H., Manabe, I., Nemoto, T., Tainaka, K., Hamada, A., Brismar, H., Susaki, E. A. (2024) <br>descSPIM: Affordable and Easy-to-Build Light-Sheet Microscopy for Tissue Clearing Technique Users. <br>Nat Commun. 12: 4941.<br>(https://www.nature.com/articles/s41467-024-49131-1)
 
