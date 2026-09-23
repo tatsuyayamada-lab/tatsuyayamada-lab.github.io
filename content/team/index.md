@@ -121,6 +121,11 @@ date: "{{ .Date }}"
         <p class="member-name">Anna Tews</p>
         <p class="member-role">Graduate student (Accerelated M.S. course)</p>
     </div>
+    <div class="team-member">
+        <img src="Jordyn-Svec_undergraduate-researcher.jpeg" class="team-avatar"/>
+        <p class="member-name">Jordyn Svec</p>
+        <p class="member-role">Undergraduate Research Assistant</p>
+    </div>
     <h2 class="team-section-title">Alumni</h2>
     <div class="team-member">
         <img src="Vaishvika Balamurugan_Undergraduate Summer Internship.webp" class="team-avatar"/>
