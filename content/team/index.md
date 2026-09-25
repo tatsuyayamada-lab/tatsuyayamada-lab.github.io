@@ -109,12 +109,6 @@ date: "{{ .Date }}"
         <p class="member-name">Shun Sato</p>
         <p class="member-role">PostDoc Fellow</p>
     </div>
-    <!-- 第 4 个人（新加的，自动换到第二行） -->
-    <div class="team-member">
-        <img src="Danny Vinton_Posbac Felllow.webp" class="team-avatar"/>
-        <p class="member-name">Danny Vinton</p>
-        <p class="member-role">PostBac Fellow</p>
-    </div>
     <!-- 第 5 个人（新加的，自动换到第二行） -->
     <div class="team-member">
         <img src="Anna Tews_Graduate student (Accerelated M.S. course).webp" class="team-avatar"/>
@@ -131,6 +125,12 @@ date: "{{ .Date }}"
         <img src="Vaishvika Balamurugan_Undergraduate Summer Internship.webp" class="team-avatar"/>
         <p class="member-name">Vaishvika Balamurugan</p>
         <p class="member-role">Research Intern Summer 2025</p>
+    </div>
+        <!-- 第 4 个人（新加的，自动换到第二行） -->
+    <div class="team-member">
+        <img src="Danny Vinton_Posbac Felllow.webp" class="team-avatar"/>
+        <p class="member-name">Danny Vinton</p>
+        <p class="member-role">PostBac Fellow</p>
     </div>
 </div>
 
